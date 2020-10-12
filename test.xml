@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<measure number="1" width="205">
+	<note default-x="13">
+		<pitch>
+			<step>D</step>
+			<octave>5</octave>
+		</pitch>
+		<duration>1</duration>
+		<voice>1</voice>
+		<type>32nd</type>
+		<stem default-y="-43">down</stem>
+		<beam number="1">begin</beam>
+		<beam number="2">begin</beam>
+		<beam number="3">begin</beam>
+	</note>
+	<note default-x="32">
+		<pitch>
+			<step>E</step>
+			<octave>5</octave>
+		</pitch>
+		<duration>1</duration>
+		<voice>1</voice>
+		<type>32nd</type>
+		<stem default-y="-38">down</stem>
+		<beam number="1">continue</beam>
+		<beam number="2">continue</beam>
+		<beam number="3">end</beam>
+	</note>
+	<note default-x="50">
+		<pitch>
+			<step>G</step>
+			<octave>5</octave>
+		</pitch>
+		<duration>2</duration>
+		<voice>1</voice>
+		<type>16th</type>
+		<stem default-y="-33">down</stem>
+		<beam number="1">end</beam>
+		<beam number="2">end</beam>
+	</note>
+	<forward>
+		<duration>4</duration>
+		<voice>1</voice>
+	</forward>
+	<note default-x="80">
+		<rest>
+			<display-step>A</display-step>
+			<display-octave>4</display-octave>
+		</rest>
+		<duration>2</duration>
+		<voice>1</voice>
+		<type>16th</type>
+	</note>
+	<note default-x="99">
+		<pitch>
+			<step>E</step>
+			<octave>5</octave>
+		</pitch>
+		<duration>4</duration>
+		<voice>1</voice>
+		<type>eighth</type>
+		<stem default-y="-41">down</stem>
+		<beam number="1">begin</beam>
+	</note>
+	<note default-x="137">
+		<pitch>
+			<step>B</step>
+			<octave>5</octave>
+		</pitch>
+		<duration>2</duration>
+		<voice>1</voice>
+		<type>16th</type>
+		<stem default-y="-33">down</stem>
+		<beam number="1">end</beam>
+		<beam number="2">backward hook</beam>
+	</note>
+	<note default-x="154">
+		<rest>
+			<display-step>B</display-step>
+			<display-octave>4</display-octave>
+		</rest>
+		<duration>8</duration>
+		<voice>1</voice>
+		<type>quarter</type>
+	</note>
+	<note default-x="215">
+		<pitch>
+			<step>A</step>
+			<octave>5</octave>
+		</pitch>
+		<duration>2</duration>
+		<voice>1</voice>
+		<type>16th</type>
+		<stem default-y="-31">down</stem>
+		<beam number="1">begin</beam>
+		<beam number="2">begin</beam>
+	</note>
+</measure>
